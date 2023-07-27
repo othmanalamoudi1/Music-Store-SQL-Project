@@ -5,6 +5,7 @@ In that project, I queried the Chinook Database. The Chinook Database held infor
 ## Which playlist had the most songs?
 
 ![image](https://github.com/othmanalamoudi1/Music-Store-SQL-Project/assets/52235733/fa2225bb-36a1-43fb-ae7f-b397eeb9c4d4)
+
 According to the bar chart, the "Music" playlist has the highest number of tracks, with over 6,000 songs. However, there seems to be something wrong, and I need to verify if the data is cleaned or not.
 
 ## Identifying Sales Reps with the Highest Number of Customers
@@ -20,6 +21,7 @@ The bar chart indicates that Employee Peacock has the highest number of customer
 The US market generates the highest revenue among other countries, with Canada being the second-highest revenue-generating country. Population plays a significant role in these revenue trends.
 
 ## Identifying which year had the highest revenue generation in the USA.
+
 ![image](https://github.com/othmanalamoudi1/Music-Store-SQL-Project/assets/52235733/9b0934e6-d493-469a-a00d-ca20eafa97d0)
 
 
